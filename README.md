@@ -1,2 +1,2 @@
 # black_scholes_and_beyond
-Black Scholes and Beyond by Neil Chriss
+Replicating in a Python Jupyter Notebook the book Black Scholes and Beyond by Neil Chriss
